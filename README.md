@@ -62,3 +62,16 @@ Then, from within your project folder:
 npm run build
 surge public
 ```
+
+
+
+
+## How Made
+
+ - Started with template: https://github.com/sveltejs/template-webpack
+
+ - npm install bulma --save-dev
+
+ - npm install svelte-preprocess-sass --save-dev
+
+ - modified webpack config with 👆
